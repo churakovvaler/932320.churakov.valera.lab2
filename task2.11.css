@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 10px;
+    background-color: aqua;
+    border: solid green 2px;
+    height: 265px;
+}
+
+img {
+    float: right;
+}

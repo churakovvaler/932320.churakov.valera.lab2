@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.float_box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 25px 0px 15px 25px;
+    background-color: aquamarine;
+}
+
+.clear_box {
+    clear: both;
+    margin: 0px 10px 0px 10px;
+    background-color: bisque;
+}

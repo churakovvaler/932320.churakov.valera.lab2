@@ -1,0 +1,24 @@
+.content {
+    background-color: aqua;
+    border: solid green 2px;
+}
+
+nav {
+    width: 25%;
+    background-color: bisque;
+    float: left;
+}
+
+main {
+    background-color: darkgray;
+    margin-left: 25%;
+}
+
+img {
+    width: 50%;
+    float: right;
+}
+
+.sentences {
+    clear: both;
+}

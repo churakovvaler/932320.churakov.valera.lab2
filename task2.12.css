@@ -1,0 +1,30 @@
+div {
+    background-color: aqua;
+    border: solid green 2px;
+}
+
+nav {
+    width: 500px;
+    background-color: bisque;
+    float: left;
+}
+
+main {
+    background-color: darkgray;
+    margin-left: 505px;
+    margin-right: 5px;
+}
+
+@media screen and (max-width:800px) {
+    nav {
+        width: 125px;
+        float: none;
+        padding-top: 1px;
+        padding-bottom: 1px;
+    }
+
+    main {
+        margin-left: 0px;
+        margin-right: 150px;
+    }
+}
