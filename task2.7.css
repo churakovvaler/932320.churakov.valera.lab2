@@ -1,0 +1,51 @@
+* {
+    color: white;
+}
+
+.blueviolet {
+    width: 150px;
+    height: 100px;
+    background-color: blueviolet;
+    position: static;
+}
+
+.darkred  {
+    width: 150px;
+    height: 100px;
+    background-color: darkred;
+    position: relative;
+}
+
+.peru {
+    width: 150px;
+    height: 100px;
+    background-color:peru;
+    position: relative;
+    top:-30px;
+    left:30px;
+}
+
+.indianred {
+    width: 600px;
+    height: 400px;
+    background-color:indianred;
+    position: relative;
+}
+
+.indigo {
+    width: 50%;
+    height: 50%;
+    top: 25%;
+    left: 50%;
+    background-color:indigo;
+    position: absolute;
+}
+
+.forestgreen {
+    width: auto;
+    height: 100px;
+    right: 0px;
+    bottom: 0px;
+    background-color: forestgreen;
+    position: fixed;
+}

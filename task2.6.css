@@ -1,0 +1,14 @@
+.container_1 {
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.container_2 {
+    width: 500px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+    border: solid 10px blue;
+}

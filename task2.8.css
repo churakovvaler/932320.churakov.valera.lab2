@@ -1,0 +1,23 @@
+div {
+    background-color: aqua;
+}
+
+nav {
+    width: 250px;
+    background-color: bisque;
+    float: left;
+}
+
+main {
+    background-color: darkgray;
+    margin-left: 250px;
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: limegreen;
+    bottom: 0px;
+    left: 0px;
+}
